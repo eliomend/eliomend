@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Me chamo Elio Mendonça e sou criador do canal Dev Company no YouTube.
 
 <!--
 **eliomend/eliomend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
